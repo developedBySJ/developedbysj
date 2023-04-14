@@ -2,11 +2,13 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=developedBySJ)](https://github.com/developedBySJ) [![GitHub followers](https://img.shields.io/github/followers/developedBySJ.svg?style=social&label=Follow)](https://github.com/developedBySJ?tab=followers)
 
-👋 Hey there! I'm Swapnil, a seasoned Full Stack Developer based in India. I'm passionate about building intuitive, user-friendly solutions that help businesses thrive in today's fast-paced digital landscape. 💻 My skills include HTML, CSS, JavaScript, React JS, Node JS, Express JS, MongoDB, and more.
+#### 👋 Hey there! I'm Swapnil, a seasoned Full Stack Developer based in India. I'm passionate about building intuitive, user-friendly solutions that help businesses thrive in today's fast-paced digital landscape. 
 
-🚀 With a focus on clean code, scalability, and maintainability, I've worked on a variety of projects across different industries, from e-commerce platforms to healthcare portals and beyond. I'm also proficient in using tools like Git, Figma to streamline my workflow and ensure a seamless development process from start to finish.
+#### 💻 My skills include HTML, CSS, JavaScript, React JS, Node JS, Express JS, MongoDB, and more.
 
-🌱 When I'm not coding, I enjoy exploring new technologies and staying up-to-date on the latest industry trends. I'm always on the lookout for new challenges and opportunities to expand my skillset and take my career to the next level. Let's connect and build something amazing together!
+#### 🚀 With a focus on clean code, scalability, and maintainability, I've worked on a variety of projects across different industries, from e-commerce platforms to healthcare portals and beyond. I'm also proficient in using tools like Git, Figma to streamline my workflow and ensure a seamless development process from start to finish.
+
+#### 🌱 When I'm not coding, I enjoy exploring new technologies and staying up-to-date on the latest industry trends. I'm always on the lookout for new challenges and opportunities to expand my skillset and take my career to the next level. Let's connect and build something amazing together!
 
 ## ⭐ GitHub Stats
 
